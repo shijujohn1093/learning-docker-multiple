@@ -25,7 +25,7 @@
       "name": "nginx",
       "image": "shijujohn1093/multi-nginx",
       "hostname": "nginx",
-      "essential": true,,
+      "essential": true,
       "memory": 128
       "portMappings": [{
         "hostPort": 80,
